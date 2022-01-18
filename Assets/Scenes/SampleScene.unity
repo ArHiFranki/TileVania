@@ -7116,6 +7116,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1110140684210796067, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
+      propertyPath: runSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110140684210796067, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
+      propertyPath: moveSpeed
+      value: 5000
+      objectReference: {fileID: 0}
     - target: {fileID: 1110140685178890206, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -7163,6 +7171,14 @@ PrefabInstance:
     - target: {fileID: 1110140685178890207, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8002303604130972490, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8002303604130972490, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
+      propertyPath: m_GravityScale
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
