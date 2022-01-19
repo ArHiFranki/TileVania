@@ -18270,7 +18270,7 @@ GameObject:
   - component: {fileID: 1735914190}
   m_Layer: 11
   m_Name: Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18436,11 +18436,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.053468704, y: 0.65346766}
   m_EdgeRadius: 0
---- !u!4 &1844467514 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 225725134669652150, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
-  m_PrefabInstance: {fileID: 1110140684210796065}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1959034845
 GameObject:
   m_ObjectHideFlags: 3
@@ -18654,18 +18649,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1110140684210796067, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
-      propertyPath: gun
-      value: 
-      objectReference: {fileID: 1844467514}
-    - target: {fileID: 1110140684210796067, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
-      propertyPath: bullet
-      value: 
-      objectReference: {fileID: 8631942010107545421, guid: 85371a072e04d474fb8e35dd0b90f5dd, type: 3}
-    - target: {fileID: 1110140684210796067, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
-      propertyPath: bulletPrefab
-      value: 
-      objectReference: {fileID: 8631942010107545421, guid: 85371a072e04d474fb8e35dd0b90f5dd, type: 3}
     - target: {fileID: 1110140685178890206, guid: 69c47bd0922fb924a833176c3b7fcf57, type: 3}
       propertyPath: m_RootOrder
       value: 2
