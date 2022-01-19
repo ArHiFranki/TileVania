@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7423617247848672595}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -22.70309, y: -7.2794633, z: 13.581545}
+  m_LocalPosition: {x: -19.858646, y: -7.2794633, z: 13.581545}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7423617248547025203}
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_YDamping: 5
   m_ZDamping: 1
   m_TargetMovementOnly: 1
-  m_ScreenX: 0.5
+  m_ScreenX: 0.3
   m_ScreenY: 0.5
   m_CameraDistance: 10
   m_DeadZoneWidth: 0.1
@@ -230,7 +230,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7423617248560570644}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.774886, y: -1.321412, z: -10}
+  m_LocalPosition: {x: -5.774886, y: -1.320614, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7423617248809061762}
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_YDamping: 5
   m_ZDamping: 1
   m_TargetMovementOnly: 1
-  m_ScreenX: 0.5
+  m_ScreenX: 0.3
   m_ScreenY: 0.5
   m_CameraDistance: 10
   m_DeadZoneWidth: 0.1
@@ -530,15 +530,15 @@ MonoBehaviour:
   - {fileID: 7423617247848672598}
   - {fileID: 7423617249373290912}
   m_Instructions:
-  - m_FullHash: 256545655
+  - m_FullHash: -1760495463
     m_VirtualCamera: {fileID: 7423617249334613787}
     m_ActivateAfter: 0
     m_MinDuration: 0
-  - m_FullHash: -158743911
+  - m_FullHash: -1314695283
     m_VirtualCamera: {fileID: 7423617247848672598}
     m_ActivateAfter: 1
     m_MinDuration: 0
-  - m_FullHash: -725336713
+  - m_FullHash: -1813075869
     m_VirtualCamera: {fileID: 7423617249373290912}
     m_ActivateAfter: 0
     m_MinDuration: 0
@@ -553,11 +553,13 @@ MonoBehaviour:
       m_RotationOrder: 4
   m_CustomBlends: {fileID: 11400000, guid: 4ac1305d888b3494893011bacbc56f20, type: 2}
   m_ParentHash:
-  - m_Hash: -158743911
+  - m_Hash: -1314695283
     m_ParentHash: 756556552
-  - m_Hash: 256545655
+  - m_Hash: -1760495463
     m_ParentHash: 756556552
-  - m_Hash: -725336713
+  - m_Hash: -1813075869
+    m_ParentHash: 756556552
+  - m_Hash: -524152464
     m_ParentHash: 756556552
 --- !u!1 &7423617249331684017
 GameObject:
@@ -651,7 +653,7 @@ MonoBehaviour:
   m_YDamping: 5
   m_ZDamping: 1
   m_TargetMovementOnly: 1
-  m_ScreenX: 0.5
+  m_ScreenX: 0.3
   m_ScreenY: 0.5
   m_CameraDistance: 10
   m_DeadZoneWidth: 0.1
@@ -700,7 +702,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7423617249334613786}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -22.70309, y: -7.2794633, z: 13.581545}
+  m_LocalPosition: {x: -19.147535, y: -7.2794633, z: 13.581545}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7423617248995813046}
@@ -788,7 +790,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7423617249373290925}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -22.70309, y: -7.2794633, z: 13.581545}
+  m_LocalPosition: {x: -17.725313, y: -7.2794633, z: 13.581545}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7423617249331684018}

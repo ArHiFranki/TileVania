@@ -18398,6 +18398,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7423617249198311666, guid: a71b72b92b391334d92b101b8da232c0, type: 3}
+      propertyPath: m_Follow
+      value: 
+      objectReference: {fileID: 1110140684210796073}
+    - target: {fileID: 7423617249198311666, guid: a71b72b92b391334d92b101b8da232c0, type: 3}
       propertyPath: m_AnimatedTarget
       value: 
       objectReference: {fileID: 1110140684210796072}
